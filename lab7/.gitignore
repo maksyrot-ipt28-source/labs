@@ -1,0 +1,15 @@
+# Сміття
+build/
+bin/
+__pycache__/
+
+# Дані (те, що викладач не має бачити в репозиторії)
+*.mp4
+*.caffemodel
+*.prototxt
+
+# IDE та системне
+.idea/
+.vscode/
+*.swp
+.DS_Store

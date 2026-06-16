@@ -1,24 +1,8 @@
-# System files
-.DS_Store
-*.swp
-
-# IDE settings
-.idea/
-.vscode/
-
-# Build directories
 build/
 bin/
-__pycache__/
-venv/
-
-# Data files
-*.txt
-*.csv
-*.json
-
-# Великі файли та дані
-test_video.mp4
+.idea/
+.vscode/
+*.swp
 *.caffemodel
 *.prototxt
-build/
+*.mp4

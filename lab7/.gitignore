@@ -1,0 +1,18 @@
+# System files
+.DS_Store
+*.swp
+
+# IDE settings
+.idea/
+.vscode/
+
+# Build directories
+build/
+bin/
+__pycache__/
+venv/
+
+# Data files
+*.txt
+*.csv
+*.json

@@ -16,3 +16,9 @@ venv/
 *.txt
 *.csv
 *.json
+
+# Великі файли та дані
+test_video.mp4
+*.caffemodel
+*.prototxt
+build/
